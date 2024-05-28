@@ -19,10 +19,27 @@ Target Tasks:
       - Backend Profile/ User Tracking
   
 
+--- ALL TASKS COMPLETE ---
 
 
 Week 2 (20/5 - 26/5)
+Target Taks:
+- Barebones WebApp & iOS applicaiton
+  - Features to implement:
+      - LoginScreen (Pushed 28/5)
+      - HomeScreen (Pushed 28/5)
+      - ProfileScreen (Pushed 28/5)
+
+--- ALL TASKS COMPLETE ---
 
 
+Week 3 (27/5 - 2/6) 
+- Milestone #1
+- Target Tasks
+    - Login Fucntion
+    - Individual Accounts with password on SQL Database
+    - JobsListScreen
+    - JobsMainScreen
+    - NavigationBar Function
 
 
