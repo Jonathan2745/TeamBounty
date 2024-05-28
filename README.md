@@ -24,7 +24,7 @@ Target Tasks:
 
 Week 2 (20/5 - 26/5)
 Target Taks:
-- Barebones WebApp & iOS applicaiton
+- Barebones Web, Andriod & iOS applicaiton
   - Features to implement:
       - LoginScreen (Pushed 28/5)
       - HomeScreen (Pushed 28/5)
