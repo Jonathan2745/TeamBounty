@@ -38,6 +38,10 @@ Week 3 (27/5 - 2/6)
 - Target Tasks
     - Login Fucntion
     - Individual Accounts with password on SQL Database
+      - PostGreSQL database set up
+      - AWS services set up
+      - Link to app locally (internet scary)
+
     - JobsListScreen
     - JobsMainScreen
     - NavigationBar Function
