@@ -1,0 +1,53 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nusbounty-dev-bfd69-authRole",
+      "UnauthRoleArn": "arn:aws:iam::992382505344:role/amplify-nusbounty-dev-bfd69-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::992382505344:role/amplify-nusbounty-dev-bfd69-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nusbounty-dev-bfd69-deployment",
+      "UnauthRoleName": "amplify-nusbounty-dev-bfd69-unauthRole",
+      "StackName": "amplify-nusbounty-dev-bfd69",
+      "StackId": "arn:aws:cloudformation:us-east-1:992382505344:stack/amplify-nusbounty-dev-bfd69/025f4760-1e6a-11ef-bdc6-127bcc0330ad",
+      "AmplifyAppId": "d232420jw6s8lo"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d232420jw6s8lo",
+          "type": "cicd"
+        }
+      },
+      "api": {
+        "nusbounty": {}
+      },
+      "auth": {
+        "nusbounty8cebcfd2": {}
+      }
+    }
+  },
+  "prodtest": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nusbounty-prodtest-3cc9e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::992382505344:role/amplify-nusbounty-prodtest-3cc9e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::992382505344:role/amplify-nusbounty-prodtest-3cc9e-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nusbounty-prodtest-3cc9e-deployment",
+      "UnauthRoleName": "amplify-nusbounty-prodtest-3cc9e-unauthRole",
+      "StackName": "amplify-nusbounty-prodtest-3cc9e",
+      "StackId": "arn:aws:cloudformation:us-east-1:992382505344:stack/amplify-nusbounty-prodtest-3cc9e/187b9bf0-1e6c-11ef-a108-0ed4ae30fc15",
+      "AmplifyAppId": "d232420jw6s8lo"
+    },
+    "categories": {
+      "api": {
+        "nusbounty": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d232420jw6s8lo",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
